@@ -4,6 +4,10 @@ A mixed reality (AR/VR) museum heist game where you are given a mission of robbi
 ## Overview
 Embark on an immersive journey through a high-tech museum in this AR/VR game, blending cutting-edge technology with thrilling gameplay. Players start in an augmented reality (AR) world, receiving their mission and learning about the museum's sophisticated security systems. The goal is to steal a valuable artifact, navigating through puzzles and evading security measures like cameras and lasers. This project showcases advanced Unity scripting to create an engaging mixed reality experience.
 
+
+## For DALI Build
+[Build Link](https://drive.google.com/drive/u/1/folders/1Q5pBxl75XMrz8Oq72yol_dVFoqawRHqP)
+
 ## Features
 - **AR Introduction**: Experience the game's backstory and objectives in an augmented reality setting, setting the stage for the adventure.
 - **VR Gameplay**: Dive into a virtual reality environment where you solve puzzles, including a Simon Says game and a weight-sensitive pedestal challenge, to progress towards the artifact.
